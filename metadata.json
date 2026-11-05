@@ -1,0 +1,8 @@
+{
+  "name": "AI Retail Surveillance",
+  "description": "A virtual web demo simulating an AI Retail Smart Surveillance & Theft Detection System with live tracking and behavioral analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
